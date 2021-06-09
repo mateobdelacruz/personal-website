@@ -17,7 +17,10 @@ h1 {
 h3 {
     color: #21094e
 }
-a:visited {
+a {
+    color: #511281
+}
+a:hover {
     text-decoration: none;
-    color: #c0fefc
+    color: #dbf6e9
 }
