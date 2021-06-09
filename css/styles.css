@@ -1,10 +1,10 @@
 body {
-    background-color:#dddddd;
+    background-color:#a5e1ad;
     font-family: Arial, Helvetica, sans-serif;
        
 }
 hr {
-    border-color:#3c8dad;
+    border-color:#4ca1a3;
     border-style:none;
     border-top-style: dotted;
     border-width: 5px; 
@@ -12,8 +12,8 @@ hr {
     
 }
 h1 {
-    color: #0a1d37
+    color: #21094e
 }
 h3 {
-    color: #0a1d37
+    color: #21094e
 }
